@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Ralsei",
+        "category": "Healer",
+        "id": "1001",
+        "isFeatured": true,
+        "isFavorite": true,
+        "description": "Ralsei is a deuteragonist of Deltarune and, presumably, the \"Prince from the Dark\" Hero of Light, as foretold in the Prophecy. Having weaker attack and defense, and with the ability to cast healing spells, Ralsei acts as the party's healer.",
+        "imageName": "ralseiSprite"
+    },
+    {
+        "name": "Susie",
+        "category": "Tank",
+        "id": "1002",
+        "isFeatured": true,
+        "isFavorite": true,
+        "description": "Susie is a deuteragonist of Deltarune and, presumably, the monster Hero of Light that The Prophecy speaks of. Being an ax wielder and having the most health, Susie takes the role of the party's tank.",
+        "imageName": "susieSprite"
+    },
+    {
+        "name": "Kris",
+        "category": "Player",
+        "id": "1003",
+        "isFeatured": true,
+        "isFavorite": true,
+        "description": "Kris is the main protagonist of Deltarune and, presumably, the human Hero of Light. They are controlled by the player for the majority of the game, with the exception of the ending cutscenes and brief moments in other cutscenes.",
+        "imageName": "krisSprite"
+    },
+    {
+        "name": "Lancer",
+        "category": "Ally",
+        "id": "1004",
+        "isFeatured": true,
+        "isFavorite": true,
+        "description": "Lancer is a nefarious Darkner child and the secondary antagonist of Chapter 1 of Deltarune. While his initial goal is to destroy the party before they can reach the Eastern Fountain and seal it, he eventually joins the team and becomes an ally.",
+        "imageName": "lancerSprite"
+    },
+    {
+        "name": "King",
+        "category": "Antagonist of Chapter 1",
+        "id": "1005",
+        "isFeatured": true,
+        "isFavorite": true,
+        "description": "The King is the primary antagonist and final boss of Chapter 1 in Deltarune. He is the father of Lancer, and one of the four kings of the Card Kingdom. His goal is to serve the Knight by protecting the Eastern Fountain and invading the world with darkness, thus making the Darkners the rulers of it. This goal is thwarted, at least temporarily, when Kris seals the Eastern Fountain at the end of Chapter 1.",
+        "imageName": "kingSprite"
+    },
+    {
+        "name": "Queen",
+        "category": "Antagonist of Chapter 2",
+        "id": "1006",
+        "isFeatured": true,
+        "isFavorite": true,
+        "description": "Queen, full name Serial Number Q5U4EX7YY2E9N, is the primary antagonist and final boss of Chapter 2 in Deltarune. She is the ruler of the Cyber World, a Dark World located in the library's computer lab. GIGA Queen is her giant robot which serves as the Chapter 2 final boss on a Normal Route.",
+        "imageName": "queenSprite"
+    },
+    {
+        "name": "Jevil",
+        "category": "Bonus Boss",
+        "id": "1007",
+        "isFeatured": true,
+        "isFavorite": true,
+        "description": "Jevil is a Darkner and antagonist in Chapter 1, in which he serves as the first bonus boss encountered. He is one of the holders of a Shadow Crystal.",
+        "imageName": "jevilSprite"
+    },
+    {
+        "name": "Spamton G. Spamton",
+        "category": "Mini Boss / Bonus Boss",
+        "id": "1008",
+        "isFeatured": true,
+        "isFavorite": true,
+        "description": "Spamton, full name Spamton G. Spamton, is a robotic Darkner and antagonist in Chapter 2 of Deltarune. He is initially encountered in Cyber City, where he is fought as a miniboss. After his battle, he appears as a shopkeeper in the Trash Zone. His shop is unusual in that his items are not what they appear, and their prices fluctuate rapidly while looking at them. He is also the only shopkeeper that the party cannot sell items to, with the \"SELL\" option being replaced with \"BUYMORE!!\" Spamton NEO is his upgraded form, which serves as a bonus boss on a normal route and the final boss of the Chapter 2 Snowgrave Route. He holds one of the Shadow Crystals.",
+        "imageName": "spamtonSprite"
+    },
+    {
+        "name": "Noelle",
+        "category": "Ally",
+        "id": "1009",
+        "isFeatured": true,
+        "isFavorite": true,
+        "description": "Noelle Holiday is a secondary character in Deltarune and a major playable character in Chapter 2, as one of Kris's classmates and neighbors. She lives on the northwest side of town with her mother, the Mayor of Hometown, and her father, Rudy, who is currently in the hospital with an unnamed illness.",
+        "imageName": "noelleSprite"
+    },
+    {
+        "name": "Berdly",
+        "category": "Ally",
+        "id": "1010",
+        "isFeatured": true,
+        "isFavorite": true,
+        "description": "Berdly is a character in Deltarune, appearing as a minor character in Chapter 1 and the secondary antagonist turned ally in Chapter 2. The smugly self-proclaimed \"Number 1\" student in school, he is one of Kris's classmates and early rivals, and Noelle's study partner.",
+        "imageName": "berdlySprite"
+    },
+    {
+        "name": "Toriel",
+        "category": "Mom",
+        "id": "1011",
+        "isFeatured": true,
+        "isFavorite": true,
+        "description": "Toriel is a recurring NPC in Chapter 1 and 2 of Deltarune, and a returning character from Undertale. She is the mother of Kris and Asriel, the latter of whom is off at university. She lives with them in a neatly kept house at the northern end of Hometown.",
+        "imageName": "torielSprite"
+    }
+]
+
